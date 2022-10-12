@@ -24,4 +24,4 @@ For example: The below list of characters is sorted in increasing order of their
 
 Author
 
-Lafine Sami
+Benjamin K Nyaruviro
